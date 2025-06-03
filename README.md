@@ -4,4 +4,4 @@
 Me chamo João Matheus, sou um grande apaixonado pela tecnologia, principalmente desenvolvimento WEB, e Jogos.
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=Golozeimas&style=for-the-badge&label=Contador+de+visitas)
+![](https://komarev.com/ghpvc/?username=Golozeimas&style=for-the-badge&label=Contador+de+visitas&color=grey)
