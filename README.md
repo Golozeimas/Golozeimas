@@ -6,3 +6,4 @@ Me chamo João Matheus, sou um grande apaixonado pela tecnologia, principalmente
 <br>
 ![](https://komarev.com/ghpvc/?username=Golozeimas&style=for-the-badge&label=Contador+de+visitas&color=grey)
 ##
+![snake gif](https://github.com/Golozeimas/Golozeimas/blob/output/github-contribution-grid-snake.svg)
