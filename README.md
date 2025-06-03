@@ -1,2 +1,3 @@
 ## Bem vindo ao meu Git Hub 🖥
-Me chamo João Matheus, sou um grande apaixonado pela tecnologia, principalmente desenvolvimento WEB, e jogos, estou no 2 período de engenharia de software
+** Dev WEB | 2° Período ENG SOFTWARE**
+Me chamo João Matheus, sou um grande apaixonado pela tecnologia, principalmente desenvolvimento WEB, e Jogos, estou no 2° período de engenharia de software.
