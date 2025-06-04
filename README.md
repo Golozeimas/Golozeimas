@@ -29,4 +29,6 @@ Me chamo João Matheus, sou um grande apaixonado pela tecnologia, principalmente
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo"  />
+  <img width="8" />
 </div>
