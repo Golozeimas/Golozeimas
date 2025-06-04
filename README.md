@@ -13,7 +13,9 @@ Me chamo João Matheus, sou um grande apaixonado pela tecnologia, principalmente
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Golozeimas/Golozeimas/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
 
+Main Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
