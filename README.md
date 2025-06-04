@@ -33,4 +33,6 @@ Me chamo João Matheus, sou um grande apaixonado pela tecnologia, principalmente
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo"  />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="25" alt="nestjs logo"  />
+  <img width="8" />
 </div>
