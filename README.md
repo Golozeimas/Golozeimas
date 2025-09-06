@@ -8,9 +8,9 @@ Sou um desenvolvedor web apaixonado por tecnologia e pela criação de interface
 
 🚀 Habilidades Técnicas
 
-Front-end: HTML, CSS, JavaScript, React, Next.js e Tailwind CSS.
+Front-end: HTML, CSS, JavaScript, Livewire.
 
-Back-end: Node.js, com foco em APIs REST e integração com serviços externos.
+Back-end: PHP, laravel e MySQL (consumos de Apis Rest).
 
 Boas práticas: versionamento de código com Git, organização de projetos, componentização e responsividade.
 
@@ -48,16 +48,7 @@ Estou sempre em busca de aprender novas tecnologias e aplicar soluções criativ
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="php logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="25" alt="nestjs logo"  />
-  <img width="8" />
+
 </div>
