@@ -8,9 +8,9 @@ Sou um desenvolvedor web apaixonado por tecnologia e pela criação de interface
 
 🚀 Habilidades Técnicas
 
-Front-end: HTML, CSS, JavaScript, Livewire.
+Front-end: HTML, CSS, JavaScript e BootStrap.
 
-Back-end: PHP, laravel e MySQL (consumos de Apis Rest).
+Back-end: PHP 8 , laravel e MySQL.
 
 Boas práticas: versionamento de código com Git, organização de projetos, componentização e responsividade.
 
@@ -53,8 +53,6 @@ Estou sempre em busca de aprender novas tecnologias e aplicar soluções criativ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="25" alt="laravel logo"  />
-  <img width="8" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="25" alt="livewire logo"  />
   <img width="8" />
 
 </div>
