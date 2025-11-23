@@ -3,7 +3,6 @@
 <br>
 <h2>Sobre mim</h2>
 <br>
-<br>
 Sou um desenvolvedor web apaixonado por tecnologia e pela criação de interfaces modernas, funcionais e responsivas. Tenho experiência em construir aplicações completas, desde a estruturação do front-end até a implementação de funcionalidades no back-end. Meu foco é desenvolver soluções que unam design intuitivo, boa performance e manutenção escalável.
 
 <h2>Habilidades Técnicas</h2>
