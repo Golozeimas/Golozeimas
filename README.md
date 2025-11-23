@@ -2,9 +2,8 @@
 <b> Dev WEB | 2° Período ENG SOFTWARE</b>
 <br>
 <h2>Sobre mim</h2>
-<br>
 Sou um desenvolvedor web apaixonado por tecnologia e pela criação de interfaces modernas, funcionais e responsivas. Tenho experiência em construir aplicações completas, desde a estruturação do front-end até a implementação de funcionalidades no back-end. Meu foco é desenvolver soluções que unam design intuitivo, boa performance e manutenção escalável.
-
+<br>
 <h2>Habilidades Técnicas</h2>
 
 Front-end: HTML, CSS, JavaScript e BootStrap.
@@ -12,7 +11,7 @@ Front-end: HTML, CSS, JavaScript e BootStrap.
 Back-end: PHP 8 , laravel e MySQL.
 
 Boas práticas: versionamento de código com Git, organização de projetos, componentização e responsividade.
-
+<br>
 <h2>O que eu entrego</h2>
 
 Interfaces modernas e responsivas, com foco na melhor experiência do usuário.
