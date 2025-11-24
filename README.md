@@ -25,6 +25,7 @@ Código limpo, reutilizável e fácil de manter.
 Estou sempre em busca de aprender novas tecnologias e aplicar soluções criativas em projetos desafiadores. Meu portfólio é um reflexo do meu aprendizado contínuo e do meu compromisso em evoluir como desenvolvedor full-stack.
 <br>
 <br>
+<hr>
 
 ![](https://komarev.com/ghpvc/?username=Golozeimas&style=for-the-badge&label=Contador+de+visitas&color=grey)
 
