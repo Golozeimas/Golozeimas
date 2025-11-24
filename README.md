@@ -25,8 +25,7 @@ Código limpo, reutilizável e fácil de manter.
 Estou sempre em busca de aprender novas tecnologias e aplicar soluções criativas em projetos desafiadores. Meu portfólio é um reflexo do meu aprendizado contínuo e do meu compromisso em evoluir como desenvolvedor full-stack.
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=Golozeimas&style=for-the-badge&label=Contador+de+visitas&color=grey)
-##
+![](https://komarev.com/ghpvc/?username=Golozeimas&style=for-the-badge&label=Contador+de+visitas&color=grey)##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Golozeimas/Golozeimas/output/github-contribution-grid-snake-dark.svg">
