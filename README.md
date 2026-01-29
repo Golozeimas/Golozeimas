@@ -1,14 +1,14 @@
 ## Bem vindo ao meu Git Hub 🖥
-<b> Dev WEB | 2° Período ENG SOFTWARE</b>
+<b> Dev WEB | 3° Período ENG SOFTWARE</b>
 <br>
 <h2>Sobre mim</h2>
 Sou um desenvolvedor web apaixonado por tecnologia e pela criação de interfaces modernas, funcionais e responsivas. Tenho experiência em construir aplicações completas, desde a estruturação do front-end até a implementação de funcionalidades no back-end. Meu foco é desenvolver soluções que unam design intuitivo, boa performance e manutenção escalável.
 <br>
 <h2>Habilidades Técnicas</h2>
 
-Front-end: HTML, CSS, JavaScript e BootStrap.
+Front-end: HTML, CSS, JavaScript e React.
 
-Back-end: PHP 8 , laravel e MySQL.
+Back-end: PYthon, Flask e Java.
 
 Boas práticas: versionamento de código com Git, organização de projetos, componentização e responsividade.
 <br>
@@ -46,13 +46,15 @@ Estou sempre em busca de aprender novas tecnologias e aplicar soluções criativ
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="25" alt="sql logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="25" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="25" alt="flask logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="8" />
 
 </div>
