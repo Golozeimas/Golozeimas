@@ -8,7 +8,7 @@ Sou um desenvolvedor web apaixonado por tecnologia e pela criação de interface
 
 Front-end: HTML, CSS, JavaScript e React.
 
-Back-end: PYthon, Flask e Java.
+Back-end: Python, Flask e Java.
 
 Boas práticas: versionamento de código com Git, organização de projetos, componentização e responsividade.
 <br>
