@@ -1,103 +1,183 @@
-## Bem-vindo ao meu GitHub 🖥️  
-<b>Desenvolvedor Full-Stack | Estudante de Engenharia de Software</b>
+<div align="center">
 
----
+# João Matheus Ramos Araujo 
 
-## Sobre mim
+### Desenvolvedor Full-Stack • TypeScript • React • Node.js
 
-Sou um desenvolvedor full-stack focado na construção de aplicações modernas, escaláveis e bem estruturadas. Atualmente curso Engenharia de Software e venho aprofundando meus conhecimentos em desenvolvimento web, banco de dados, arquitetura de aplicações e boas práticas de programação.
-
-Tenho interesse em desenvolvimento back-end, front-end e cloud computing, buscando sempre criar soluções eficientes, performáticas e de fácil manutenção.
-
----
-
-## Habilidades Técnicas
-
-### Front-end
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-
-### Back-end
-- Node.js
-- NestJS
-
-### Banco de Dados
-- MySQL
-- MongoDB
-
-### Ferramentas e Boas Práticas
-- Git e GitHub
-- APIs REST
-- Responsividade
-- Componentização
-- Versionamento de código
-- Estruturação de projetos
-- SQL e modelagem de banco de dados
-
-### Cloud & Estudos Atuais
-- AWS Cloud Practitioner
-- Microsoft AZ-900
-- Conceitos de computação em nuvem
-
----
-
-## O que eu entrego
-
-- Interfaces modernas, responsivas e intuitivas
-- APIs organizadas e escaláveis
-- Código limpo e reutilizável
-- Aplicações com foco em performance e manutenção
-- Integração entre front-end, back-end e banco de dados
-
----
-
-## Objetivo
-
-Busco evoluir constantemente como desenvolvedor full-stack, participando de projetos que me desafiem tecnicamente e contribuam para meu crescimento profissional. Meu GitHub representa minha trajetória de aprendizado, prática e desenvolvimento contínuo na área de tecnologia.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Software+Engineering+Student;Always+Learning+New+Technologies" />
 
 <br>
 
-<hr>
+<a href="https://github.com/Golozeimas">
+  <img src="https://img.shields.io/github/followers/Golozeimas?label=Followers&style=for-the-badge&color=0ea5e9"/>
+</a>
 
-![](https://komarev.com/ghpvc/?username=Golozeimas&style=for-the-badge&label=Contador+de+visitas&color=grey)
+<a href="https://github.com/Golozeimas">
+  <img src="https://img.shields.io/github/stars/Golozeimas?affiliations=OWNER&style=for-the-badge&color=6366f1"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Golozeimas&style=for-the-badge&label=VISITAS&color=0f172a"/>
+
+</div>
+
+---
+
+# Sobre mim
+
+Sou um desenvolvedor full-stack com foco em aplicações web modernas, escaláveis e organizadas. Atualmente curso Engenharia de Software e atuo profissionalmente com desenvolvimento de sistemas voltados para demandas reais do setor público.
+
+Tenho experiência prática com desenvolvimento back-end utilizando Node.js, Python e arquiteturas MVC, além de construção de interfaces modernas com React e TypeScript. Também possuo vivência com consumo de APIs, versionamento com Git/GitHub, metodologias ágeis e modelagem de sistemas.
+
+Além do desenvolvimento, tenho interesse em arquitetura de software, cloud computing, qualidade de código e boas práticas de engenharia de software.
+
+---
+
+# 💼 Experiência
+
+## Estágio Full-Stack — SEAD PI
+### Secretaria de Administração do Estado do Piauí
+
+- Desenvolvimento de sistemas internos utilizando:
+  - Python (Flask e Django)
+  - React
+  - JavaScript
+  - Bootstrap 5
+
+- Consumo e testes de APIs REST utilizando Postman
+- Manipulação e análise de dados com Pandas
+- Automação e web scraping com Selenium
+- Participação no desenvolvimento de soluções para demandas governamentais
+
+---
+
+## Projeto Freelancer — UsoMake
+
+Sistema de gerenciamento de estoque desenvolvido com:
+
+- PHP 8
+- MySQL
+- HTML, CSS e JavaScript
+- Arquitetura MVC
+- Fluxogramas e documentação técnica
+
+Projeto focado em organização, controle de estoque e estruturação de sistema escalável.
+
+---
+
+## Startup CompraAI — Designer UI/UX
+
+Atuação na criação de:
+
+- Protótipos no Figma
+- Interfaces modernas
+- Estruturas visuais responsivas
+- Relatórios e documentação de produto
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## Front-End
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap"/>
+
+---
+
+## Back-End
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,flask,django,php"/>
+
+---
+
+## Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
+---
+
+## Ferramentas & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode"/>
+
+</div>
+
+---
+
+# 📚 Conhecimentos Técnicos
+
+## Front-End
+Desenvolvimento de interfaces responsivas utilizando React, TypeScript e JavaScript moderno, aplicando componentização, consumo de APIs e boas práticas de UI/UX.
+
+## Back-End
+Construção de APIs e sistemas web utilizando Node.js, NestJS, Flask e Django, seguindo padrões MVC e conceitos de programação orientada a objetos.
+
+## Banco de Dados
+Experiência com modelagem relacional e não relacional utilizando MySQL, PostgreSQL e MongoDB.
+
+## Engenharia de Software
+Conhecimentos em:
+- SCRUM
+- Kanban
+- Levantamento de requisitos
+- Modelagem UML
+- Arquitetura de software
+- Versionamento Git
+- Boas práticas de desenvolvimento
+
+## Cloud & Estudos
+Atualmente estudando:
+- AWS Cloud Practitioner
+- Conceitos de computação em nuvem
+- Escalabilidade e arquitetura de sistemas
+
+---
+
+# Objetivo
+
+Meu objetivo é evoluir continuamente como desenvolvedor full-stack, aprofundando conhecimentos em arquitetura de software, cloud computing e desenvolvimento escalável.
+
+Busco participar de projetos desafiadores que contribuam para meu crescimento técnico e profissional, sempre focando em performance, qualidade de código e impacto real através da tecnologia.
+
+---
+
+# Estatísticas GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Golozeimas&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golozeimas&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Contributions
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Golozeimas/Golozeimas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Golozeimas/Golozeimas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Golozeimas/Golozeimas/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Golozeimas/Golozeimas/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br>
+---
 
-## Main Stack
+# Contato
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo"/>
-  <img width="8" />
+<div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="css3 logo"/>
-  <img width="8" />
+<a href="mailto:joaosobramatheus@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="28" alt="javascript logo"/>
-  <img width="8" />
+<a href="https://linkedin.com/in/joao-matheus1">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="typescript logo"/>
-  <img width="8" />
+<a href="https://github.com/Golozeimas">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo"/>
-  <img width="8" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs logo"/>
-  <img width="8" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="28" alt="nestjs logo"/>
-  <img width="8" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="mysql logo"/>
-  <img width="8" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" alt="mongodb logo"/>
 </div>
