@@ -9,11 +9,11 @@
 <br>
 
 <a href="https://github.com/Golozeimas">
-  <img src="https://img.shields.io/github/followers/Golozeimas?label=Followers&style=for-the-badge&color=0ea5e9"/>
+  <img src="https://img.shields.io/github/followers/Golozeimas?label=Seguidores&style=for-the-badge&color=0ea5e9"/>
 </a>
 
 <a href="https://github.com/Golozeimas">
-  <img src="https://img.shields.io/github/stars/Golozeimas?affiliations=OWNER&style=for-the-badge&color=6366f1"/>
+  <img src="https://img.shields.io/github/stars/Golozeimas?affiliations=OWNER&label=Estrelas&style=for-the-badge&color=6366f1"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Golozeimas&style=for-the-badge&label=VISITAS&color=0f172a"/>
