@@ -81,13 +81,13 @@ Atuação na criação de:
 
 ## Front-End
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs"/>
 
 ---
 
 ## Back-End
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,flask,django,php"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts"/>
 
 ---
 
@@ -105,13 +105,13 @@ Atuação na criação de:
 
 ---
 
-# 📚 Conhecimentos Técnicos
+# Conhecimentos Técnicos
 
 ## Front-End
 Desenvolvimento de interfaces responsivas utilizando React, TypeScript e JavaScript moderno, aplicando componentização, consumo de APIs e boas práticas de UI/UX.
 
 ## Back-End
-Construção de APIs e sistemas web utilizando Node.js, NestJS, Flask e Django, seguindo padrões MVC e conceitos de programação orientada a objetos.
+Construção de APIs e sistemas web utilizando Node.js, NestJS e TypeScript, seguindo padrões MVC e conceitos de programação orientada a objetos.
 
 ## Banco de Dados
 Experiência com modelagem relacional e não relacional utilizando MySQL, PostgreSQL e MongoDB.
@@ -139,18 +139,6 @@ Atualmente estudando:
 Meu objetivo é evoluir continuamente como desenvolvedor full-stack, aprofundando conhecimentos em arquitetura de software, cloud computing e desenvolvimento escalável.
 
 Busco participar de projetos desafiadores que contribuam para meu crescimento técnico e profissional, sempre focando em performance, qualidade de código e impacto real através da tecnologia.
-
----
-
-# Estatísticas GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Golozeimas&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golozeimas&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
