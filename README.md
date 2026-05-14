@@ -99,15 +99,6 @@ Busco evoluir constantemente como desenvolvedor full-stack, participando de proj
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="28" alt="nestjs logo"/>
   <img width="8" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="java logo"/>
-  <img width="8" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo"/>
-  <img width="8" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28" alt="flask logo"/>
-  <img width="8" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="mysql logo"/>
   <img width="8" />
 
