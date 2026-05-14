@@ -32,7 +32,7 @@ Além do desenvolvimento, tenho interesse em arquitetura de software, cloud comp
 
 ---
 
-# 💼 Experiência
+# Experiência
 
 ## Estágio Full-Stack — SEAD PI
 ### Secretaria de Administração do Estado do Piauí
@@ -75,7 +75,7 @@ Atuação na criação de:
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <div align="center">
 
