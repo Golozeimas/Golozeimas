@@ -23,9 +23,6 @@ Tenho interesse em desenvolvimento back-end, front-end e cloud computing, buscan
 ### Back-end
 - Node.js
 - NestJS
-- Java
-- Python
-- Flask
 
 ### Banco de Dados
 - MySQL
