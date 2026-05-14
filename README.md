@@ -1,34 +1,71 @@
-## Bem vindo ao meu Git Hub 🖥
-<b> Dev WEB | 3° Período ENG SOFTWARE</b>
+## Bem-vindo ao meu GitHub 🖥️  
+<b>Desenvolvedor Full-Stack | Estudante de Engenharia de Software</b>
+
+---
+
+## Sobre mim
+
+Sou um desenvolvedor full-stack focado na construção de aplicações modernas, escaláveis e bem estruturadas. Atualmente curso Engenharia de Software e venho aprofundando meus conhecimentos em desenvolvimento web, banco de dados, arquitetura de aplicações e boas práticas de programação.
+
+Tenho interesse em desenvolvimento back-end, front-end e cloud computing, buscando sempre criar soluções eficientes, performáticas e de fácil manutenção.
+
+---
+
+## Habilidades Técnicas
+
+### Front-end
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+
+### Back-end
+- Node.js
+- NestJS
+- Java
+- Python
+- Flask
+
+### Banco de Dados
+- MySQL
+- MongoDB
+
+### Ferramentas e Boas Práticas
+- Git e GitHub
+- APIs REST
+- Responsividade
+- Componentização
+- Versionamento de código
+- Estruturação de projetos
+- SQL e modelagem de banco de dados
+
+### Cloud & Estudos Atuais
+- AWS Cloud Practitioner
+- Microsoft AZ-900
+- Conceitos de computação em nuvem
+
+---
+
+## O que eu entrego
+
+- Interfaces modernas, responsivas e intuitivas
+- APIs organizadas e escaláveis
+- Código limpo e reutilizável
+- Aplicações com foco em performance e manutenção
+- Integração entre front-end, back-end e banco de dados
+
+---
+
+## Objetivo
+
+Busco evoluir constantemente como desenvolvedor full-stack, participando de projetos que me desafiem tecnicamente e contribuam para meu crescimento profissional. Meu GitHub representa minha trajetória de aprendizado, prática e desenvolvimento contínuo na área de tecnologia.
+
 <br>
-<h2>Sobre mim</h2>
-Sou um desenvolvedor web apaixonado por tecnologia e pela criação de interfaces modernas, funcionais e responsivas. Tenho experiência em construir aplicações completas, desde a estruturação do front-end até a implementação de funcionalidades no back-end. Meu foco é desenvolver soluções que unam design intuitivo, boa performance e manutenção escalável.
-<br>
-<h2>Habilidades Técnicas</h2>
 
-Front-end: HTML, CSS, JavaScript e React.
-
-Back-end: Python, Flask e Java.
-
-Boas práticas: versionamento de código com Git, organização de projetos, componentização e responsividade.
-<br>
-<h2>O que eu entrego</h2>
-
-Interfaces modernas e responsivas, com foco na melhor experiência do usuário.
-
-Aplicações otimizadas para performance e acessibilidade.
-
-Código limpo, reutilizável e fácil de manter.
-
-<h2>Objetivo</h2>
-<br>
-Estou sempre em busca de aprender novas tecnologias e aplicar soluções criativas em projetos desafiadores. Meu portfólio é um reflexo do meu aprendizado contínuo e do meu compromisso em evoluir como desenvolvedor full-stack.
-<br>
-<br>
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=Golozeimas&style=for-the-badge&label=Contador+de+visitas&color=grey)
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Golozeimas/Golozeimas/output/github-contribution-grid-snake-dark.svg">
@@ -38,27 +75,41 @@ Estou sempre em busca de aprender novas tecnologias e aplicar soluções criativ
 
 <br>
 
-<h3>Main Stack </h3>
+## Main Stack
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="sql logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="25" alt="flask logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="25" alt="nest logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="node logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo"/>
   <img width="8" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="css3 logo"/>
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="28" alt="javascript logo"/>
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="typescript logo"/>
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo"/>
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs logo"/>
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="28" alt="nestjs logo"/>
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="java logo"/>
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo"/>
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28" alt="flask logo"/>
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="mysql logo"/>
+  <img width="8" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" alt="mongodb logo"/>
 </div>
