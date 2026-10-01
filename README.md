@@ -1,10 +1,10 @@
 <div align="center">
 
-# João Matheus Ramos Araujo 
+# João Matheus Ramos Araujo
 
 ### Desenvolvedor Full-Stack • TypeScript • React • Node.js
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Software+Engineering+Student;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Software+Engineering+Student;Building+Real+World+Applications" />
 
 <br>
 
@@ -20,54 +20,256 @@
 
 # Sobre mim
 
-Sou um desenvolvedor full-stack com foco em aplicações web modernas, escaláveis e organizadas. Atualmente curso Engenharia de Software e atuo profissionalmente com desenvolvimento de sistemas voltados para demandas reais do setor público.
+Sou desenvolvedor Full-Stack e estudante de Engenharia de Software, com experiência prática na construção de sistemas web, APIs, automações e aplicações voltadas para problemas reais.
 
-Tenho experiência prática com desenvolvimento back-end utilizando Node.js, Python e arquiteturas MVC, além de construção de interfaces modernas com React e TypeScript. Também possuo vivência com consumo de APIs, versionamento com Git/GitHub, metodologias ágeis e modelagem de sistemas.
+Atuo principalmente com **TypeScript, React e Node.js**, mas também possuo experiência com **Python, PHP e Java**, utilizando diferentes tecnologias de acordo com as necessidades de cada projeto.
 
-Além do desenvolvimento, tenho interesse em arquitetura de software, cloud computing, qualidade de código e boas práticas de engenharia de software.
+Durante minha trajetória venho trabalhando com desenvolvimento de sistemas internos, dashboards, automação de processos, integração com APIs, bancos de dados relacionais e não relacionais, autenticação e construção de interfaces responsivas.
+
+Tenho interesse principalmente em **arquitetura de software, desenvolvimento back-end, cloud computing, automação e qualidade de código**.
 
 ---
 
-# Experiência
+# Experiência Profissional
 
-## Estágio Full-Stack — SEAD PI
+## Desenvolvedor Full-Stack — SEAD PI
+
 ### Secretaria de Administração do Estado do Piauí
 
-- Desenvolvimento de sistemas internos utilizando:
-  - Python (Flask e Django)
-  - React
-  - JavaScript
-  - Bootstrap 5
+Atuação no desenvolvimento de sistemas e soluções digitais voltadas para demandas internas da administração pública.
 
-- Consumo e testes de APIs REST utilizando Postman
-- Manipulação e análise de dados com Pandas
-- Automação e web scraping com Selenium
-- Participação no desenvolvimento de soluções para demandas governamentais
+Entre os trabalhos desenvolvidos está um **Dashboard SIAFE**, estruturado como aplicação Full-Stack com front-end e API REST.
+
+### Tecnologias utilizadas
+
+- React
+- Vite
+- Recharts
+- Axios
+- Node.js
+- Express
+- MySQL
+- JavaScript
+
+Também tive contato com:
+
+- Desenvolvimento de aplicações web
+- Consumo e desenvolvimento de APIs REST
+- Manipulação e análise de dados com Python e Pandas
+- Automação de processos e web scraping
+- Modelagem e consultas em bancos de dados
+- Git e GitHub para versionamento
+
+Além do dashboard, desenvolvi projetos e protótipos utilizando **PHP, MySQL e integração com APIs**, aplicando conceitos de CRUD, persistência de dados e interfaces web.
 
 ---
 
-## Projeto Freelancer — UsoMake
+## Desenvolvedor Freelancer — UsoMake
 
-Sistema de gerenciamento de estoque desenvolvido com:
+Desenvolvimento de um sistema de gerenciamento de estoque voltado para centralização e organização das operações do negócio.
+
+### Tecnologias utilizadas
 
 - PHP 8
 - MySQL
-- HTML, CSS e JavaScript
-- Arquitetura MVC
-- Fluxogramas e documentação técnica
+- HTML
+- CSS
+- JavaScript
 
-Projeto focado em organização, controle de estoque e estruturação de sistema escalável.
+O projeto envolveu desenvolvimento de funcionalidades de gerenciamento de estoque, integração com banco de dados, estruturação das regras de negócio e organização da aplicação utilizando conceitos de arquitetura MVC.
+
+Também participei do levantamento das necessidades do sistema, criação dos fluxos da aplicação e documentação técnica.
 
 ---
 
-## Startup CompraAI — Designer UI/UX
+## UI/UX Designer — CompraAI
 
-Atuação na criação de:
+Participação em projeto de startup trabalhando na criação e organização da experiência visual do produto.
 
-- Protótipos no Figma
-- Interfaces modernas
-- Estruturas visuais responsivas
-- Relatórios e documentação de produto
+Atividades desenvolvidas:
+
+- Criação de protótipos no Figma
+- Desenvolvimento de interfaces
+- Estruturação de layouts responsivos
+- Organização de fluxos de navegação
+- Documentação visual do produto
+- Apoio na definição da experiência do usuário
+
+Essa experiência também contribuiu para minha atuação como desenvolvedor, principalmente na construção de interfaces mais consistentes e orientadas à experiência do usuário.
+
+---
+
+# Projetos em Destaque
+
+## Mini CRM — Sol Nascente Motos Honda
+
+<a href="https://github.com/Golozeimas/CRM_Honda">
+  Ver repositório
+</a>
+
+Sistema web desenvolvido para **captura, qualificação e gerenciamento de leads** de uma concessionária Honda.
+
+A aplicação possui uma landing page pública integrada a um dashboard administrativo, permitindo acompanhar o lead durante todo o processo comercial.
+
+### Principais funcionalidades
+
+- Landing page para captação de leads
+- Catálogo de motocicletas
+- Formulário de solicitação de proposta
+- Autenticação administrativa
+- Rotas protegidas
+- Dashboard com indicadores
+- Busca e filtros de leads
+- Pipeline comercial
+- Alteração de status
+- Edição e exclusão de leads
+- Integração direta com WhatsApp
+- Atualização de dados em tempo real
+- Interface responsiva
+
+### Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Firebase Authentication
+- Cloud Firestore
+- React Router
+- React Hook Form
+- Zod
+- Node.js
+- Express
+
+---
+
+## RPA Consórcios — Banco Central + WhatsApp
+
+<a href="https://github.com/Golozeimas/RPA_Consorcios">
+  Ver repositório
+</a>
+
+Sistema de automação desenvolvido para consultar dados públicos de consórcios do **Banco Central do Brasil**, estruturar as informações coletadas e gerar mensagens para envio via WhatsApp.
+
+O projeto foi desenvolvido como desafio técnico Full-Stack e envolve automação de navegador, API, persistência, integração com serviços externos e controle de histórico.
+
+### Principais funcionalidades
+
+- Automação RPA com Playwright
+- Consulta de dados públicos do Banco Central
+- Integração com catálogo OData
+- API REST
+- Validação e normalização de dados
+- Geração automática de mensagens
+- Integração com WhatsApp via Twilio
+- Histórico de consultas
+- Histórico de tentativas de envio
+- Controle contra duplicidade
+- Webhooks para acompanhamento de mensagens
+- Testes automatizados
+
+### Stack
+
+- Python
+- FastAPI
+- Playwright
+- Pydantic
+- SQLAlchemy
+- SQLite
+- HTTPX
+- Twilio
+- Jinja2
+- Bootstrap 5
+- JavaScript
+- Pytest
+
+---
+
+## Sistema de Gestão para Oficina Mecânica
+
+<a href="https://github.com/Golozeimas/OficinaMecanica_Java">
+  Ver repositório
+</a>
+
+Sistema desenvolvido em Java para gerenciamento das principais operações de uma oficina mecânica.
+
+A aplicação centraliza informações relacionadas a clientes, veículos, estoque, ordens de serviço e pagamentos.
+
+### Principais funcionalidades
+
+- Cadastro de clientes
+- Cadastro de veículos
+- Ordens de serviço
+- Histórico de manutenção
+- Controle de estoque de peças
+- Controle de pagamentos
+- Relatórios financeiros
+- Controle de status das ordens
+- Integração com banco de dados
+
+### Stack
+
+- Java
+- JavaFX
+- MySQL
+- JDBC
+- FXML
+- MVC
+- DAO
+
+---
+
+## Turing Gambit — Engine de Xadrez
+
+<a href="https://github.com/Golozeimas/Turing-gambit">
+  Ver repositório
+</a>
+
+Projeto em desenvolvimento para o **Chess Challenge III — ICEV 2026**, utilizando o Stockfish 19 como base para criação e experimentação de mecanismos próprios de tomada de decisão.
+
+O projeto explora conceitos relacionados a algoritmos, heurísticas, inteligência artificial aplicada a jogos e avaliação de desempenho.
+
+### Áreas trabalhadas
+
+- Gerenciamento adaptativo de tempo
+- Análise de posições
+- Seleção de movimentos
+- Controle de busca
+- Livro de aberturas
+- Testes automatizados entre engines
+- Análise de desempenho
+
+### Tecnologias
+
+- C++
+- Stockfish 19
+- NNUE
+- UCI
+- Syzygy Tablebases
+- Python
+
+---
+
+# Outros Projetos
+
+Também mantenho projetos de estudo e implementação envolvendo diferentes áreas da engenharia de software.
+
+Entre eles:
+
+- Sistemas CRUD com PHP e MySQL
+- Sistema de metas financeiras
+- Sistema de cupons para servidores
+- Dashboard climático consumindo Open-Meteo
+- Aplicações com Firebase
+- Projetos React
+- Aplicações em TypeScript
+- Estruturas de dados em Java
+- Sistemas escolares em Java
+- Algoritmos de ordenação
+- Consumo de APIs
+- Detecção de faces
+- Extração de metadados
+- Automação com Python
 
 ---
 
@@ -77,25 +279,25 @@ Atuação na criação de:
 
 ## Front-End
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap"/>
 
 ---
 
 ## Back-End
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,php,java"/>
 
 ---
 
 ## Banco de Dados
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite"/>
 
 ---
 
-## Ferramentas & DevOps
+## Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea"/>
 
 </div>
 
@@ -104,37 +306,71 @@ Atuação na criação de:
 # Conhecimentos Técnicos
 
 ## Front-End
-Desenvolvimento de interfaces responsivas utilizando React, TypeScript e JavaScript moderno, aplicando componentização, consumo de APIs e boas práticas de UI/UX.
+
+Desenvolvimento de interfaces modernas e responsivas utilizando **React, TypeScript e JavaScript**, trabalhando com componentização, gerenciamento de rotas, formulários, integração com APIs e boas práticas de UI/UX.
 
 ## Back-End
-Construção de APIs e sistemas web utilizando Node.js, NestJS e TypeScript, seguindo padrões MVC e conceitos de programação orientada a objetos.
+
+Desenvolvimento de APIs e aplicações utilizando **Node.js, Express, NestJS, Python, FastAPI, PHP e Java**, aplicando conceitos de orientação a objetos, separação de responsabilidades e arquitetura em camadas.
 
 ## Banco de Dados
-Experiência com modelagem relacional e não relacional utilizando MySQL, PostgreSQL e MongoDB.
+
+Experiência com bancos relacionais e não relacionais, incluindo:
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- Firestore
+- SQLite
+
+Com conhecimentos em modelagem, relacionamentos, consultas SQL, CRUD e integração entre aplicações e bancos de dados.
 
 ## Engenharia de Software
+
 Conhecimentos em:
-- SCRUM
-- Kanban
+
+- Programação Orientada a Objetos
+- SOLID
+- Clean Code
+- MVC
+- DAO
+- Arquitetura em camadas
+- Padrões de projeto
+- APIs REST
 - Levantamento de requisitos
 - Modelagem UML
-- Arquitetura de software
-- Versionamento Git
-- Boas práticas de desenvolvimento
+- Git e GitHub
+- Scrum
+- Kanban
 
-## Cloud & Estudos
-Atualmente estudando:
-- AWS Cloud Practitioner
-- Conceitos de computação em nuvem
-- Escalabilidade e arquitetura de sistemas
+## Automação
+
+Experiência com automação e coleta de dados utilizando:
+
+- Python
+- Playwright
+- Selenium
+- APIs externas
+- Web scraping
+- Processamento de dados
+
+## Cloud
+
+Atualmente aprofundando conhecimentos em:
+
+- AWS
+- Computação em nuvem
+- Deploy de aplicações
+- Arquiteturas escaláveis
+- Serviços gerenciados
 
 ---
 
 # Objetivo
 
-Meu objetivo é evoluir continuamente como desenvolvedor full-stack, aprofundando conhecimentos em arquitetura de software, cloud computing e desenvolvimento escalável.
+Meu objetivo é continuar evoluindo como **desenvolvedor Full-Stack**, aprofundando principalmente meus conhecimentos em desenvolvimento back-end, arquitetura de software, cloud computing e construção de sistemas escaláveis.
 
-Busco participar de projetos desafiadores que contribuam para meu crescimento técnico e profissional, sempre focando em performance, qualidade de código e impacto real através da tecnologia.
+Busco trabalhar em projetos onde seja possível transformar problemas reais em soluções de software bem estruturadas, utilizando boas práticas de engenharia, código de qualidade e tecnologias adequadas para cada cenário.
 
 ---
 
@@ -154,6 +390,10 @@ Busco participar de projetos desafiadores que contribuam para meu crescimento t�
 
 <a href="https://linkedin.com/in/joao-matheus1">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Golozeimas">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
