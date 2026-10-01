@@ -1,10 +1,10 @@
 <div align="center">
 
-# João Matheus Ramos Araujo
+# Olá, eu sou o João Matheus 👋
 
-### Desenvolvedor Full-Stack • TypeScript • React • Node.js
+### Desenvolvedor Full-Stack • Engenharia de Software • Sempre construindo alguma coisa
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Software+Engineering+Student;Building+Real+World+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=TypeScript+%7C+React+%7C+Node.js;Transformando+ideias+em+software;Aprendendo%2C+construindo+e+quebrando+coisas;Software+Engineering+Student" />
 
 <br>
 
@@ -18,375 +18,157 @@
 
 ---
 
-# Sobre mim
+## Sobre mim
 
-Sou desenvolvedor Full-Stack e estudante de Engenharia de Software, com experiência prática na construção de sistemas web, APIs, automações e aplicações voltadas para problemas reais.
+Sou estudante de **Engenharia de Software** e desenvolvedor Full-Stack.
 
-Atuo principalmente com **TypeScript, React e Node.js**, mas também possuo experiência com **Python, PHP e Java**, utilizando diferentes tecnologias de acordo com as necessidades de cada projeto.
+Gosto principalmente de pegar uma ideia, entender o problema e transformar aquilo em algo que realmente funciona.
 
-Durante minha trajetória venho trabalhando com desenvolvimento de sistemas internos, dashboards, automação de processos, integração com APIs, bancos de dados relacionais e não relacionais, autenticação e construção de interfaces responsivas.
+Hoje tenho focado bastante em **TypeScript, React e Node.js**, mas gosto de explorar outras tecnologias quando o projeto pede. Por isso, você também vai encontrar por aqui projetos com **Python, Java, PHP, bancos de dados, automação e até C++**.
 
-Tenho interesse principalmente em **arquitetura de software, desenvolvimento back-end, cloud computing, automação e qualidade de código**.
+Uma das coisas que mais gosto em programação é justamente essa variedade: em um projeto posso estar construindo um CRM, em outro automatizando uma tarefa com Python e, no seguinte, estudando algoritmos através de uma engine de xadrez.
 
----
-
-# Experiência Profissional
-
-## Desenvolvedor Full-Stack — SEAD PI
-
-### Secretaria de Administração do Estado do Piauí
-
-Atuação no desenvolvimento de sistemas e soluções digitais voltadas para demandas internas da administração pública.
-
-Entre os trabalhos desenvolvidos está um **Dashboard SIAFE**, estruturado como aplicação Full-Stack com front-end e API REST.
-
-### Tecnologias utilizadas
-
-- React
-- Vite
-- Recharts
-- Axios
-- Node.js
-- Express
-- MySQL
-- JavaScript
-
-Também tive contato com:
-
-- Desenvolvimento de aplicações web
-- Consumo e desenvolvimento de APIs REST
-- Manipulação e análise de dados com Python e Pandas
-- Automação de processos e web scraping
-- Modelagem e consultas em bancos de dados
-- Git e GitHub para versionamento
-
-Além do dashboard, desenvolvi projetos e protótipos utilizando **PHP, MySQL e integração com APIs**, aplicando conceitos de CRUD, persistência de dados e interfaces web.
+Ainda tenho muita coisa para aprender — e esse GitHub acaba sendo também um registro dessa evolução.
 
 ---
 
-## Desenvolvedor Freelancer — UsoMake
+## O que tenho construído
 
-Desenvolvimento de um sistema de gerenciamento de estoque voltado para centralização e organização das operações do negócio.
+### 🏍️ CRM para concessionária
 
-### Tecnologias utilizadas
+Um dos projetos que mais gostei de desenvolver foi um CRM para gerenciamento de leads de uma concessionária Honda.
 
-- PHP 8
-- MySQL
-- HTML
-- CSS
-- JavaScript
+A ideia foi construir o fluxo completo: desde a pessoa preenchendo um formulário na landing page até o vendedor acompanhando esse lead em um dashboard.
 
-O projeto envolveu desenvolvimento de funcionalidades de gerenciamento de estoque, integração com banco de dados, estruturação das regras de negócio e organização da aplicação utilizando conceitos de arquitetura MVC.
+No projeto trabalhei com:
 
-Também participei do levantamento das necessidades do sistema, criação dos fluxos da aplicação e documentação técnica.
-
----
-
-## UI/UX Designer — CompraAI
-
-Participação em projeto de startup trabalhando na criação e organização da experiência visual do produto.
-
-Atividades desenvolvidas:
-
-- Criação de protótipos no Figma
-- Desenvolvimento de interfaces
-- Estruturação de layouts responsivos
-- Organização de fluxos de navegação
-- Documentação visual do produto
-- Apoio na definição da experiência do usuário
-
-Essa experiência também contribuiu para minha atuação como desenvolvedor, principalmente na construção de interfaces mais consistentes e orientadas à experiência do usuário.
-
----
-
-# Projetos em Destaque
-
-## Mini CRM — Sol Nascente Motos Honda
+`React` `TypeScript` `Firebase` `Firestore` `Tailwind CSS` `Node.js`
 
 <a href="https://github.com/Golozeimas/CRM_Honda">
-  Ver repositório
+  → Ver projeto
 </a>
-
-Sistema web desenvolvido para **captura, qualificação e gerenciamento de leads** de uma concessionária Honda.
-
-A aplicação possui uma landing page pública integrada a um dashboard administrativo, permitindo acompanhar o lead durante todo o processo comercial.
-
-### Principais funcionalidades
-
-- Landing page para captação de leads
-- Catálogo de motocicletas
-- Formulário de solicitação de proposta
-- Autenticação administrativa
-- Rotas protegidas
-- Dashboard com indicadores
-- Busca e filtros de leads
-- Pipeline comercial
-- Alteração de status
-- Edição e exclusão de leads
-- Integração direta com WhatsApp
-- Atualização de dados em tempo real
-- Interface responsiva
-
-### Stack
-
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- Firebase Authentication
-- Cloud Firestore
-- React Router
-- React Hook Form
-- Zod
-- Node.js
-- Express
 
 ---
 
-## RPA Consórcios — Banco Central + WhatsApp
+### 🤖 Automação + Banco Central + WhatsApp
+
+Também desenvolvi uma aplicação de automação para consultar informações públicas de consórcios disponibilizadas pelo Banco Central.
+
+O projeto mistura várias coisas que gosto: **automação, APIs, dados e integração entre sistemas**.
+
+O fluxo envolve coleta das informações, processamento dos dados, geração automática de mensagens e integração com WhatsApp.
+
+`Python` `FastAPI` `Playwright` `SQLAlchemy` `Twilio`
 
 <a href="https://github.com/Golozeimas/RPA_Consorcios">
-  Ver repositório
+  → Ver projeto
 </a>
-
-Sistema de automação desenvolvido para consultar dados públicos de consórcios do **Banco Central do Brasil**, estruturar as informações coletadas e gerar mensagens para envio via WhatsApp.
-
-O projeto foi desenvolvido como desafio técnico Full-Stack e envolve automação de navegador, API, persistência, integração com serviços externos e controle de histórico.
-
-### Principais funcionalidades
-
-- Automação RPA com Playwright
-- Consulta de dados públicos do Banco Central
-- Integração com catálogo OData
-- API REST
-- Validação e normalização de dados
-- Geração automática de mensagens
-- Integração com WhatsApp via Twilio
-- Histórico de consultas
-- Histórico de tentativas de envio
-- Controle contra duplicidade
-- Webhooks para acompanhamento de mensagens
-- Testes automatizados
-
-### Stack
-
-- Python
-- FastAPI
-- Playwright
-- Pydantic
-- SQLAlchemy
-- SQLite
-- HTTPX
-- Twilio
-- Jinja2
-- Bootstrap 5
-- JavaScript
-- Pytest
 
 ---
 
-## Sistema de Gestão para Oficina Mecânica
+### ♟️ Turing Gambit
 
-<a href="https://github.com/Golozeimas/OficinaMecanica_Java">
-  Ver repositório
-</a>
+Esse é provavelmente um dos projetos mais diferentes que tenho por aqui.
 
-Sistema desenvolvido em Java para gerenciamento das principais operações de uma oficina mecânica.
+O **Turing Gambit** é uma engine de xadrez baseada no Stockfish, desenvolvida para uma competição acadêmica.
 
-A aplicação centraliza informações relacionadas a clientes, veículos, estoque, ordens de serviço e pagamentos.
+O projeto envolve experimentar estratégias de tomada de decisão, gerenciamento de tempo, análise de posições e testes automatizados entre engines.
 
-### Principais funcionalidades
+Acaba juntando duas coisas que acho muito interessantes: **programação e xadrez**.
 
-- Cadastro de clientes
-- Cadastro de veículos
-- Ordens de serviço
-- Histórico de manutenção
-- Controle de estoque de peças
-- Controle de pagamentos
-- Relatórios financeiros
-- Controle de status das ordens
-- Integração com banco de dados
-
-### Stack
-
-- Java
-- JavaFX
-- MySQL
-- JDBC
-- FXML
-- MVC
-- DAO
-
----
-
-## Turing Gambit — Engine de Xadrez
+`C++` `Python` `Stockfish` `Algoritmos`
 
 <a href="https://github.com/Golozeimas/Turing-gambit">
-  Ver repositório
+  → Ver projeto
 </a>
 
-Projeto em desenvolvimento para o **Chess Challenge III — ICEV 2026**, utilizando o Stockfish 19 como base para criação e experimentação de mecanismos próprios de tomada de decisão.
+---
 
-O projeto explora conceitos relacionados a algoritmos, heurísticas, inteligência artificial aplicada a jogos e avaliação de desempenho.
+### 🔧 Sistema para Oficina Mecânica
 
-### Áreas trabalhadas
+Também desenvolvi um sistema desktop para gerenciamento de uma oficina mecânica.
 
-- Gerenciamento adaptativo de tempo
-- Análise de posições
-- Seleção de movimentos
-- Controle de busca
-- Livro de aberturas
-- Testes automatizados entre engines
-- Análise de desempenho
+Foi um projeto importante para praticar conceitos de **orientação a objetos, arquitetura MVC, DAO e banco de dados relacional**.
 
-### Tecnologias
+O sistema trabalha com clientes, veículos, peças, ordens de serviço, pagamentos e relatórios.
 
-- C++
-- Stockfish 19
-- NNUE
-- UCI
-- Syzygy Tablebases
-- Python
+`Java` `JavaFX` `MySQL` `JDBC`
+
+<a href="https://github.com/Golozeimas/OficinaMecanica_Java">
+  → Ver projeto
+</a>
 
 ---
 
-# Outros Projetos
-
-Também mantenho projetos de estudo e implementação envolvendo diferentes áreas da engenharia de software.
-
-Entre eles:
-
-- Sistemas CRUD com PHP e MySQL
-- Sistema de metas financeiras
-- Sistema de cupons para servidores
-- Dashboard climático consumindo Open-Meteo
-- Aplicações com Firebase
-- Projetos React
-- Aplicações em TypeScript
-- Estruturas de dados em Java
-- Sistemas escolares em Java
-- Algoritmos de ordenação
-- Consumo de APIs
-- Detecção de faces
-- Extração de metadados
-- Automação com Python
-
----
-
-# Tech Stack
+## Tecnologias que aparecem bastante por aqui
 
 <div align="center">
 
-## Front-End
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,nestjs,python,java,php,mysql,postgres,mongodb,firebase,git,github"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap"/>
+</div>
 
----
+<br>
 
-## Back-End
+Não considero essa lista algo fechado.
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,php,java"/>
-
----
-
-## Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite"/>
+Gosto de aprender tecnologias novas quando elas fazem sentido para resolver o problema que estou trabalhando.
 
 ---
 
-## Ferramentas
+## Atualmente
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea"/>
+Tenho estudado e construído projetos principalmente em torno de:
+
+**Full-Stack Development**  
+**TypeScript e Node.js**  
+**React**  
+**Arquitetura de Software**  
+**APIs e integrações**  
+**Automação com Python**  
+**Cloud Computing**
+
+E provavelmente sempre existe algum projeto paralelo aberto no VS Code.
+
+---
+
+## Um pouco além do código
+
+Gosto bastante de entender **como as coisas funcionam por baixo dos panos**.
+
+Por isso, além de frameworks e bibliotecas, tenho interesse em arquitetura de software, algoritmos, bancos de dados, sistemas operacionais e engenharia de software de forma geral.
+
+Também gosto de usar projetos como forma de estudo. Em vez de apenas consumir conteúdo, normalmente tento transformar o que estou aprendendo em alguma aplicação, experimento ou repositório.
+
+Esse perfil é basicamente o histórico desse processo.
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Golozeimas&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golozeimas&layout=compact&hide_border=true"/>
 
 </div>
 
 ---
 
-# Conhecimentos Técnicos
+## Contributions
 
-## Front-End
-
-Desenvolvimento de interfaces modernas e responsivas utilizando **React, TypeScript e JavaScript**, trabalhando com componentização, gerenciamento de rotas, formulários, integração com APIs e boas práticas de UI/UX.
-
-## Back-End
-
-Desenvolvimento de APIs e aplicações utilizando **Node.js, Express, NestJS, Python, FastAPI, PHP e Java**, aplicando conceitos de orientação a objetos, separação de responsabilidades e arquitetura em camadas.
-
-## Banco de Dados
-
-Experiência com bancos relacionais e não relacionais, incluindo:
-
-- MySQL
-- PostgreSQL
-- MongoDB
-- Firestore
-- SQLite
-
-Com conhecimentos em modelagem, relacionamentos, consultas SQL, CRUD e integração entre aplicações e bancos de dados.
-
-## Engenharia de Software
-
-Conhecimentos em:
-
-- Programação Orientada a Objetos
-- SOLID
-- Clean Code
-- MVC
-- DAO
-- Arquitetura em camadas
-- Padrões de projeto
-- APIs REST
-- Levantamento de requisitos
-- Modelagem UML
-- Git e GitHub
-- Scrum
-- Kanban
-
-## Automação
-
-Experiência com automação e coleta de dados utilizando:
-
-- Python
-- Playwright
-- Selenium
-- APIs externas
-- Web scraping
-- Processamento de dados
-
-## Cloud
-
-Atualmente aprofundando conhecimentos em:
-
-- AWS
-- Computação em nuvem
-- Deploy de aplicações
-- Arquiteturas escaláveis
-- Serviços gerenciados
-
----
-
-# Objetivo
-
-Meu objetivo é continuar evoluindo como **desenvolvedor Full-Stack**, aprofundando principalmente meus conhecimentos em desenvolvimento back-end, arquitetura de software, cloud computing e construção de sistemas escaláveis.
-
-Busco trabalhar em projetos onde seja possível transformar problemas reais em soluções de software bem estruturadas, utilizando boas práticas de engenharia, código de qualidade e tecnologias adequadas para cada cenário.
-
----
-
-# Contributions
-
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Golozeimas/Golozeimas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Golozeimas/Golozeimas/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Golozeimas/Golozeimas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Golozeimas/Golozeimas/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
-# Contato
-
 <div align="center">
+
+### Vamos conversar?
 
 <a href="https://linkedin.com/in/joao-matheus1">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -395,5 +177,9 @@ Busco trabalhar em projetos onde seja possível transformar problemas reais em s
 <a href="https://github.com/Golozeimas">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br><br>
+
+<i>"Aprender construindo."</i>
 
 </div>
