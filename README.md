@@ -66,24 +66,6 @@ O fluxo envolve coleta das informações, processamento dos dados, geração aut
 
 ---
 
-### ♟️ Turing Gambit
-
-Esse é provavelmente um dos projetos mais diferentes que tenho por aqui.
-
-O **Turing Gambit** é uma engine de xadrez baseada no Stockfish, desenvolvida para uma competição acadêmica.
-
-O projeto envolve experimentar estratégias de tomada de decisão, gerenciamento de tempo, análise de posições e testes automatizados entre engines.
-
-Acaba juntando duas coisas que acho muito interessantes: **programação e xadrez**.
-
-`C++` `Python` `Stockfish` `Algoritmos`
-
-<a href="https://github.com/Golozeimas/Turing-gambit">
-  → Ver projeto
-</a>
-
----
-
 ### 🔧 Sistema para Oficina Mecânica
 
 Também desenvolvi um sistema desktop para gerenciamento de uma oficina mecânica.
