@@ -34,27 +34,67 @@ Ainda tenho muita coisa para aprender — e esse GitHub continua sendo um regist
 
 ## O que tenho construído
 
-### 📅 Sistema de Agendamentos
+Dividi os projetos que melhor representam meu momento atual em dois grupos: aplicações privadas, que fazem parte da minha experiência prática, e projetos públicos, que podem ser explorados diretamente aqui no GitHub.
 
-Um dos meus projetos mais recentes é um sistema web para gerenciamento de solicitações e agendamentos.
+### Projetos privados
 
-A proposta é organizar o fluxo de atendimento, desde o cadastro de uma solicitação até seu acompanhamento por diferentes perfis de usuários.
+#### 📊 Dashboard de Vendas — Business Intelligence
 
-Nesse projeto, tenho explorado a separação entre front-end e back-end, APIs REST, modelagem relacional, validação de dados, filtros, paginação e controle de acesso. O sistema ainda está em desenvolvimento.
+Uma aplicação voltada ao acompanhamento de indicadores comerciais, reunindo dados, filtros, gráficos interativos e diferentes visões de análise em uma única interface.
 
-`React` `TypeScript` `Node.js` `Fastify` `Prisma` `PostgreSQL` `TanStack Query` `Zod` `Docker`
+Nesse projeto, trabalho com **integração de APIs, visualização de dados, controle de acesso e desenvolvimento full-stack**. A estrutura é organizada em um monorepo, com front-end e back-end independentes.
+
+`TypeScript` `Next.js` `React` `Fastify` `Drizzle ORM` `PostgreSQL` `Recharts` `TanStack Query`
+
+*Repositório privado.*
+
+---
+
+#### 🏍️ Plataforma Web para Concessionária
+
+Uma plataforma web com catálogo de motocicletas, páginas de detalhes, navegação responsiva e informações sobre produtos e serviços.
+
+O projeto reúne **design system, componentes reutilizáveis, acessibilidade, otimização de imagens e testes automatizados de interface**, além de uma estrutura de API e persistência em desenvolvimento.
+
+`TypeScript` `Next.js` `React` `Tailwind CSS` `NestJS` `Prisma` `PostgreSQL` `Playwright`
+
+*Repositório privado.*
+
+---
+
+#### 📦 Sistema de Gestão de Estoque
+
+Aplicação full-stack para controle de estoque, com cadastro de produtos e variações, movimentações de entrada e saída, leitura de códigos de barras, inventários e relatórios.
+
+É um projeto em que exploro problemas que vão além do CRUD: **consistência de dados, transações, idempotência, rastreabilidade, permissões e regras de negócio**.
+
+O sistema utiliza um monorepo com contratos compartilhados entre front-end e back-end e uma abordagem database-first.
+
+`TypeScript` `React` `Vite` `NestJS` `Prisma` `PostgreSQL` `Docker` `pnpm`
+
+*Repositório privado.*
+
+---
+
+### Projetos públicos
+
+#### 📅 Sistema de Agendamentos
+
+Um sistema web em desenvolvimento para organizar solicitações e agendamentos, com cadastro, acompanhamento, busca, filtros e paginação.
+
+Nesse projeto, tenho explorado a separação entre front-end e back-end, **APIs REST, modelagem relacional, validação de dados e organização de fluxos de atendimento**. A estrutura prevê diferentes perfis de usuários e histórico de operações; o controle de acesso ainda está em desenvolvimento.
+
+`TypeScript` `React` `Node.js` `Fastify` `Prisma` `PostgreSQL` `TanStack Query` `Zod` `Docker`
 
 [→ Ver projeto](https://github.com/Golozeimas/Agendamento_SEAD)
 
 ---
 
-### 🏍️ CRM para concessionária
+#### 🏍️ CRM para Concessionária Honda
 
-Desenvolvi um CRM para gerenciamento de leads de uma concessionária Honda, conectando a experiência do cliente ao acompanhamento comercial.
+Desenvolvi um CRM para conectar a captura de leads em uma landing page ao acompanhamento do funil de vendas em um dashboard administrativo.
 
-O fluxo começa na landing page, com a apresentação dos modelos e a captura de leads, e segue para um dashboard administrativo com autenticação, indicadores, filtros e atualização de dados em tempo real.
-
-Foi um projeto importante para trabalhar com **regras de negócio, integração entre interfaces e serviços e gerenciamento do funil de vendas**.
+O sistema possui autenticação, indicadores comerciais, filtros e atualização de dados em tempo real. Foi um projeto importante para praticar **integração entre interfaces e serviços, persistência de dados e regras de negócio**.
 
 `React` `TypeScript` `Firebase` `Firestore` `Tailwind CSS` `Node.js`
 
@@ -62,50 +102,15 @@ Foi um projeto importante para trabalhar com **regras de negócio, integração 
 
 ---
 
-### 🤖 Automação + Banco Central + WhatsApp
+#### 🤖 RPA — Banco Central + WhatsApp
 
-Desenvolvi uma aplicação RPA que automatiza a consulta de informações públicas sobre consórcios no Banco Central do Brasil.
+Uma aplicação que automatiza a consulta de informações públicas sobre consórcios no Banco Central do Brasil, valida os dados, gera mensagens personalizadas e integra o envio de notificações via WhatsApp.
 
-O sistema coleta e valida dados, gera mensagens personalizadas, registra o histórico das operações e integra o envio de notificações pelo WhatsApp.
-
-Além da automação em si, trabalhei com **APIs, persistência transacional, idempotência, rastreabilidade e testes automatizados**.
+Além da automação, trabalhei com **persistência transacional, idempotência, rastreabilidade, integração com serviços externos e testes automatizados**.
 
 `Python` `FastAPI` `Playwright` `SQLAlchemy` `SQLite` `Twilio`
 
 [→ Ver projeto](https://github.com/Golozeimas/RPA_Consorcios)
-
----
-
-### ♟️ Turing Gambit — Engine de xadrez
-
-Projeto em equipe desenvolvido para o Chess Challenge III do iCEV, utilizando o Stockfish como base.
-
-A proposta é explorar algoritmos e heurísticas para tomada de decisão, gerenciamento de tempo, seleção de movimentos e análise de posições, com experimentos e testes automatizados entre engines.
-
-É um projeto que conecta dois interesses que tenho: **xadrez e algoritmos**.
-
-`C++` `Stockfish` `NNUE` `UCI` `Python`
-
-[→ Ver projeto](https://github.com/Golozeimas/Turing-gambit)
-
----
-
-### 📊 Aplicações corporativas e sistemas de gestão
-
-Parte do que tenho construído mais recentemente está relacionada ao desenvolvimento profissional: portais web, dashboards comerciais, visualização de indicadores e sistemas de gerenciamento.
-
-São projetos nos quais tenho aprendido a lidar com requisitos reais, regras de negócio, integração de dados, experiência do usuário e manutenção de software.
-
-Alguns desses repositórios são privados, por isso não estão disponíveis neste perfil.
-
----
-
-### Outros projetos que também fazem parte dessa trajetória
-
-- [**Sorting Visualizer**](https://github.com/Golozeimas/Projeto_AlgoritmoOrdenacao) — visualização interativa de algoritmos de ordenação, pseudocódigo e métricas de complexidade.
-- [**SoundBridge**](https://github.com/Golozeimas/Sound_Brigde) — plataforma de descoberta musical com integração à API do iTunes, player de previews e favoritos.
-- [**Sistema para Oficina Mecânica**](https://github.com/Golozeimas/OficinaMecanica_Java) — aplicação desktop com Java, JavaFX, MySQL, MVC e DAO.
-- [**Calculadora de Etanol e Gasolina**](https://github.com/Golozeimas/Projeto_Gasolina_e_alcool) — aplicação React e TypeScript para comparar o custo-benefício dos combustíveis.
 
 ---
 
@@ -133,15 +138,12 @@ Tenho estudado e construído projetos principalmente em torno de:
 **React, Next.js e desenvolvimento de interfaces**  
 **Node.js, Fastify, NestJS e APIs REST**  
 **Arquitetura de Software e Design Patterns**  
-**PostgreSQL e modelagem de bancos de dados**  
+**PostgreSQL, Prisma, Drizzle ORM e modelagem de bancos de dados**  
 **Dashboards, visualização de dados e integrações**  
 **Automação com Python**  
 **Cloud Computing (AWS), Docker e deploy de aplicações**
 
-Também mantenho repositórios para registrar meus estudos:
-
-- [Design e Arquitetura de Software](https://github.com/Golozeimas/Design_e_arquitetura_software) — padrões de projeto e organização de software.
-- [Desafios diários](https://github.com/Golozeimas/Desafios_diarios) — exercícios práticos de React e TypeScript.
+Também mantenho repositórios de estudos sobre padrões de projeto, React, TypeScript e algoritmos.
 
 E provavelmente sempre existe algum projeto paralelo aberto no VS Code.
 
