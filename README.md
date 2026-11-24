@@ -2,9 +2,9 @@
 
 # Olá, eu sou o João Matheus 👋
 
-### Desenvolvedor Full-Stack • Engenharia de Software • Sempre construindo alguma coisa
+### Desenvolvedor Full-Stack Júnior • Engenharia de Software • Sempre construindo alguma coisa
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=TypeScript+%7C+React+%7C+Node.js;Transformando+ideias+em+software;Aprendendo%2C+construindo+e+quebrando+coisas;Software+Engineering+Student" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=TypeScript+%7C+React+%7C+Node.js;APIs+%7C+Dados+%7C+Automa%C3%A7%C3%A3o;Transformando+ideias+em+software;Aprendendo%2C+construindo+e+evoluindo" />
 
 <br>
 
@@ -20,65 +20,92 @@
 
 ## Sobre mim
 
-Sou estudante de **Engenharia de Software** e desenvolvedor Full-Stack.
+Sou estudante de **Engenharia de Software** e desenvolvedor Full-Stack Júnior.
 
-Gosto principalmente de pegar uma ideia, entender o problema e transformar aquilo em algo que realmente funciona.
+Gosto de pegar uma ideia, entender o problema e transformar aquilo em uma aplicação que realmente faça sentido para quem vai utilizá-la.
 
-Hoje tenho focado bastante em **TypeScript, React e Node.js**, mas gosto de explorar outras tecnologias quando o projeto pede. Por isso, você também vai encontrar por aqui projetos com **Python, Java, PHP, bancos de dados, automação e até C++**.
+Atualmente, meu foco está no desenvolvimento de aplicações web com **TypeScript, React e Node.js**, desde a construção da interface até a modelagem do banco de dados, desenvolvimento de APIs e integração entre sistemas.
 
-Uma das coisas que mais gosto em programação é justamente essa variedade: em um projeto posso estar construindo um CRM, em outro automatizando uma tarefa com Python e, no seguinte, estudando algoritmos através de uma engine de xadrez.
+No dia a dia, também trabalho com dashboards, visualização de dados, automações e sistemas de gestão. Gosto de explorar outras tecnologias quando o problema pede, principalmente **Python, Java, PHP e C++**.
 
-Ainda tenho muita coisa para aprender — e esse GitHub acaba sendo também um registro dessa evolução.
+Ainda tenho muita coisa para aprender — e esse GitHub continua sendo um registro dessa evolução.
 
 ---
 
 ## O que tenho construído
 
+### 📅 Sistema de Agendamentos
+
+Um dos meus projetos mais recentes é um sistema web para gerenciamento de solicitações e agendamentos.
+
+A proposta é organizar o fluxo de atendimento, desde o cadastro de uma solicitação até seu acompanhamento por diferentes perfis de usuários.
+
+Nesse projeto, tenho explorado a separação entre front-end e back-end, APIs REST, modelagem relacional, validação de dados, filtros, paginação e controle de acesso. O sistema ainda está em desenvolvimento.
+
+`React` `TypeScript` `Node.js` `Fastify` `Prisma` `PostgreSQL` `TanStack Query` `Zod` `Docker`
+
+[→ Ver projeto](https://github.com/Golozeimas/Agendamento_SEAD)
+
+---
+
 ### 🏍️ CRM para concessionária
 
-Um dos projetos que mais gostei de desenvolver foi um CRM para gerenciamento de leads de uma concessionária Honda.
+Desenvolvi um CRM para gerenciamento de leads de uma concessionária Honda, conectando a experiência do cliente ao acompanhamento comercial.
 
-A ideia foi construir o fluxo completo: desde a pessoa preenchendo um formulário na landing page até o vendedor acompanhando esse lead em um dashboard.
+O fluxo começa na landing page, com a apresentação dos modelos e a captura de leads, e segue para um dashboard administrativo com autenticação, indicadores, filtros e atualização de dados em tempo real.
 
-No projeto trabalhei com:
+Foi um projeto importante para trabalhar com **regras de negócio, integração entre interfaces e serviços e gerenciamento do funil de vendas**.
 
 `React` `TypeScript` `Firebase` `Firestore` `Tailwind CSS` `Node.js`
 
-<a href="https://github.com/Golozeimas/CRM_Honda">
-  → Ver projeto
-</a>
+[→ Ver projeto](https://github.com/Golozeimas/CRM_Honda)
 
 ---
 
 ### 🤖 Automação + Banco Central + WhatsApp
 
-Também desenvolvi uma aplicação de automação para consultar informações públicas de consórcios disponibilizadas pelo Banco Central.
+Desenvolvi uma aplicação RPA que automatiza a consulta de informações públicas sobre consórcios no Banco Central do Brasil.
 
-O projeto mistura várias coisas que gosto: **automação, APIs, dados e integração entre sistemas**.
+O sistema coleta e valida dados, gera mensagens personalizadas, registra o histórico das operações e integra o envio de notificações pelo WhatsApp.
 
-O fluxo envolve coleta das informações, processamento dos dados, geração automática de mensagens e integração com WhatsApp.
+Além da automação em si, trabalhei com **APIs, persistência transacional, idempotência, rastreabilidade e testes automatizados**.
 
-`Python` `FastAPI` `Playwright` `SQLAlchemy` `Twilio`
+`Python` `FastAPI` `Playwright` `SQLAlchemy` `SQLite` `Twilio`
 
-<a href="https://github.com/Golozeimas/RPA_Consorcios">
-  → Ver projeto
-</a>
+[→ Ver projeto](https://github.com/Golozeimas/RPA_Consorcios)
 
 ---
 
-### 🔧 Sistema para Oficina Mecânica
+### ♟️ Turing Gambit — Engine de xadrez
 
-Também desenvolvi um sistema desktop para gerenciamento de uma oficina mecânica.
+Projeto em equipe desenvolvido para o Chess Challenge III do iCEV, utilizando o Stockfish como base.
 
-Foi um projeto importante para praticar conceitos de **orientação a objetos, arquitetura MVC, DAO e banco de dados relacional**.
+A proposta é explorar algoritmos e heurísticas para tomada de decisão, gerenciamento de tempo, seleção de movimentos e análise de posições, com experimentos e testes automatizados entre engines.
 
-O sistema trabalha com clientes, veículos, peças, ordens de serviço, pagamentos e relatórios.
+É um projeto que conecta dois interesses que tenho: **xadrez e algoritmos**.
 
-`Java` `JavaFX` `MySQL` `JDBC`
+`C++` `Stockfish` `NNUE` `UCI` `Python`
 
-<a href="https://github.com/Golozeimas/OficinaMecanica_Java">
-  → Ver projeto
-</a>
+[→ Ver projeto](https://github.com/Golozeimas/Turing-gambit)
+
+---
+
+### 📊 Aplicações corporativas e sistemas de gestão
+
+Parte do que tenho construído mais recentemente está relacionada ao desenvolvimento profissional: portais web, dashboards comerciais, visualização de indicadores e sistemas de gerenciamento.
+
+São projetos nos quais tenho aprendido a lidar com requisitos reais, regras de negócio, integração de dados, experiência do usuário e manutenção de software.
+
+Alguns desses repositórios são privados, por isso não estão disponíveis neste perfil.
+
+---
+
+### Outros projetos que também fazem parte dessa trajetória
+
+- [**Sorting Visualizer**](https://github.com/Golozeimas/Projeto_AlgoritmoOrdenacao) — visualização interativa de algoritmos de ordenação, pseudocódigo e métricas de complexidade.
+- [**SoundBridge**](https://github.com/Golozeimas/Sound_Brigde) — plataforma de descoberta musical com integração à API do iTunes, player de previews e favoritos.
+- [**Sistema para Oficina Mecânica**](https://github.com/Golozeimas/OficinaMecanica_Java) — aplicação desktop com Java, JavaFX, MySQL, MVC e DAO.
+- [**Calculadora de Etanol e Gasolina**](https://github.com/Golozeimas/Projeto_Gasolina_e_alcool) — aplicação React e TypeScript para comparar o custo-benefício dos combustíveis.
 
 ---
 
@@ -86,15 +113,15 @@ O sistema trabalha com clientes, veículos, peças, ordens de serviço, pagament
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,nestjs,python,java,php,mysql,postgres,mongodb,firebase,git,github"/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,tailwind,vite,python,fastapi,java,php,cpp,postgres,mysql,prisma,firebase,docker,aws,git,github&perline=7" alt="Tecnologias e ferramentas"/>
 
 </div>
 
 <br>
 
-Não considero essa lista algo fechado.
+Não considero essa lista algo fechado. Algumas dessas tecnologias fazem parte do meu dia a dia, outras fazem parte dos meus estudos e projetos paralelos.
 
-Gosto de aprender tecnologias novas quando elas fazem sentido para resolver o problema que estou trabalhando.
+Gosto de aprender ferramentas novas quando elas fazem sentido para resolver o problema que estou trabalhando.
 
 ---
 
@@ -102,13 +129,19 @@ Gosto de aprender tecnologias novas quando elas fazem sentido para resolver o pr
 
 Tenho estudado e construído projetos principalmente em torno de:
 
-**Full-Stack Development**  
-**TypeScript e Node.js**  
-**React**  
-**Arquitetura de Software**  
-**APIs e integrações**  
+**Full-Stack Development com TypeScript**  
+**React, Next.js e desenvolvimento de interfaces**  
+**Node.js, Fastify, NestJS e APIs REST**  
+**Arquitetura de Software e Design Patterns**  
+**PostgreSQL e modelagem de bancos de dados**  
+**Dashboards, visualização de dados e integrações**  
 **Automação com Python**  
-**Cloud Computing**
+**Cloud Computing (AWS), Docker e deploy de aplicações**
+
+Também mantenho repositórios para registrar meus estudos:
+
+- [Design e Arquitetura de Software](https://github.com/Golozeimas/Design_e_arquitetura_software) — padrões de projeto e organização de software.
+- [Desafios diários](https://github.com/Golozeimas/Desafios_diarios) — exercícios práticos de React e TypeScript.
 
 E provavelmente sempre existe algum projeto paralelo aberto no VS Code.
 
@@ -118,7 +151,7 @@ E provavelmente sempre existe algum projeto paralelo aberto no VS Code.
 
 Gosto bastante de entender **como as coisas funcionam por baixo dos panos**.
 
-Por isso, além de frameworks e bibliotecas, tenho interesse em arquitetura de software, algoritmos, bancos de dados, sistemas operacionais e engenharia de software de forma geral.
+Por isso, além de frameworks e bibliotecas, tenho interesse em arquitetura de software, algoritmos, bancos de dados, sistemas operacionais e infraestrutura.
 
 Também gosto de usar projetos como forma de estudo. Em vez de apenas consumir conteúdo, normalmente tento transformar o que estou aprendendo em alguma aplicação, experimento ou repositório.
 
